@@ -1,0 +1,33 @@
+.register {
+
+    background-image: url(./images/ShubhamIT.jpg );
+    background-size: cover;
+    margin: 10px;
+    /* border: 2px solid black; */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 1);
+    width: 900px;
+    height: 450px;
+    background-repeat: no-repeat;
+
+}
+
+input:focus {
+text-align: justify;
+    font-style: italic;
+    background-color: aqua;
+}
+
+.register h1 {
+    font-style: italic;
+    color: red;
+}
+
+.Fields {
+    margin-top: 30px;
+    margin-left: 450px;
+}
+
+label {
+    color: darkblue;
+    font-size: x-large;
+}

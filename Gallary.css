@@ -1,0 +1,34 @@
+.mh{
+    background-color: antiquewhite;
+    border: 2px solid rgb(0, 255, 166);
+    width: 285px;
+    float: left;
+    margin: 10px;
+
+    
+}
+.mh img{
+    padding: 10px 10px 0px 40px;
+    
+}
+.mh p{
+    padding: 10px;
+}
+.main{
+    background-color: antiquewhite;
+    
+
+    
+}
+.main h1{
+    font-style: italic;
+    background-color: burlywood;
+}
+.main a{
+    margin-left: 20px;
+}
+input:focus {
+    background-color: bisque;
+    font-style: italic;
+    text-align: justify;
+}

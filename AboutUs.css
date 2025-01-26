@@ -1,0 +1,32 @@
+.AboutUs{
+    margin: 10px;
+    width: 900px;
+    height: 600px;
+    background-image: url(./images/homepage1.webp);
+    background-size: cover;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 1);
+}
+.AboutUs p1{
+    float: left;
+}
+.AboutUs p2{
+    float: left;
+}
+.OK{
+  margin-left: 50px;
+  margin-top: 240px;
+}
+.Media{
+float: left;
+
+}
+input:focus {
+    background-color: bisque;
+    font-style: italic;
+    text-align: justify;
+}
+iframe{
+    margin-left: 20px;
+    width: 400px;
+    height: 230px;
+}

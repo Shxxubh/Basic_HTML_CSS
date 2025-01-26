@@ -1,0 +1,35 @@
+.login {
+   
+    margin: 10px;
+    width: 900px;
+    height: 450px;
+    background-image: url(./images/login.jpg);
+    background-size: cover;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 1);
+}
+
+input:focus {
+    background-color: bisque;
+    font-style: italic;
+    text-align: justify;
+}
+.Fields{
+    margin-top: 50px;
+    margin-right: 500px;
+    font-size: x-large;
+}
+
+label {
+    color: rgb(1, 1, 11);
+    font-size: x-large;
+}
+.buttons{
+   margin-left: 100px;
+   
+}
+
+.login h1 {
+    margin-left: -50px;
+    font-style: italic;
+    color: red;
+}
